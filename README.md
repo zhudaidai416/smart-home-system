@@ -1,24 +1,20 @@
 # smart-home-system
 
-## Project setup
-```
+## 介绍
+
+基于 vue2 的智能家居助手后台系统
+
+[📑 原型图 ](https://www.axureshop.com/ys/719909)
+
+完成情况：未完成
+
+## 环境依赖
+
+```bash
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+## 运行
+```bash
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
